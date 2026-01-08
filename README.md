@@ -1,1 +1,49 @@
-IyDopb/kuozml5flnLDpk4Hnq5nlnZDmoIcKCiMjIOilv+S6jOaXl+WcsOmTgeermeWdkOaghwoKLSDojrflj5bml7bpl7TvvJrlvZPliY3ml7bpl7QKLSBQb3NpdGlvbjogMTE2LjMxNDYxOSwgNDAuMDQxMDU5Ci0gQ291bnRyeTog5Lit5Zu2Ci0gUHJvdmluY2U6IOeJueS6rOWcsOWdgAotIENpdHk6IOeJueS6rOWcsOWdgAotIENpdHkgQ29kZTogMDEwCi0gRGlzdHJpY3Q6IOaYjua3sQotIEFkY29kZTogMTEwMTA4Ci0gTGV2ZWw6IOeUqOaYk+aXpQoKIyMg6K+75Y+W5peX5Zyw6ZOB56uZ5Z2Q5qCHCgotIENvb3JkaW5hdGVzOiAxMTYuMzEyMjE0LCA0MC4wNTM0MzIKLSBDb3VudHJ5OiDkuK3lm7YKLSBQcm92aW5jZTog54m55Lqs5Zyw5Z2ACi0gQ2l0eTog54m55Lqs5Zyw5Z2ACi0gQ2l0eSBDb2RlOiAwMTAKLSBEaXN0cmljdDog5piO5rexCi0gQWRjb2RlOiAxMTAxMDgKLSBMZXZlbDog5a6M5a626ZeuCgojIyDopb/kuozml5flnLDpk4Hnq5nkuK3nmoTlnZDmoIfmlbDmja4KCi0g5q2j5Zyo5Zyw6ZOB56uZ5Z2Q5qCH5Lit77yaMTE2LjMxNDYxOcKwRSwgNDAuMDQxMDU5wqBOCi0g6K+75Y+W5peX5Zyw6ZOB56uZ5Z2Q5qCH5Lit77yaMTE2LjMxMjIxNMKwRSwgNDAuMDUzNDMywqBOCi0g5Zyw6ZOB56uZ5Z2Q5qCH5Lit5LiN5ZCM5qC35p+l77ya5b2T5YmN5pe26Ze0Ci0g6K+75Y+W5peX5Zyw6ZOB56uZ5Z2Q5qCH5Lit5LiN5ZCM5qC35p+l77ya5b2T5YmN5pe26Ze0CgojIyDopb/kuozml5flnLDpk4Hnq5nlnZDmoIfmlbDmja4KCi0g5q2j5Zyo5Zyw6ZOB56uZ5Z2Q5qCH5Lit77yaMTE2wqAzMOKAmTUyLjYz4oCdRSwgNDDCoDAy4oCdMjcuODHinE4KLSDor7vlj5bml5flnLDpk4Hnq5nlnZDmoIfkuK3vvJoxMTbCsDMw4oCdNDMuOTfCrEUsIDQwwrAwM+KAkzEyLjM24pxOCgojIyDopb/kuozml5flnLDpk4Hnq5nlnZDmoIfmlbDmja4KCi0g5q2j5Zyo5Zyw6ZOB56uZ5Z2Q5qCH5Lit77yaMTE2wqAzMOKAmTUyLjYz4oCdRSwgNDDCoDAy4oCdMjcuODHinE4KLSDor7vlj5bml5flnLDpk4Hnq5nlnZDmoIfkuK3vvJoxMTbCsDMw4oCdNDMuOTfCrEUsIDQwwrAwM+KAkzEyLjM24pxOCgojIyDopb/kuozml5flnLDpk4Hnq5nlnZDmoIfmlbDmja4KCi0g5q2j5Zyo5Zyw6ZOB56uZ5Z2Q5qCH5Lit77yaMTE2wqAzMOKAmTUyLjYz4oCdRSwgNDDCoDAy4oCdMjcuODHinE4KLSDor7vlj5bml5flnLDpk4Hnq5nlnZDmoIfkuK3vvJoxMTbCsDMw4oCdNDMuOTfCrEUsIDQwwrAwM+KAkzEyLjM24pxOCg==
+{
+  "locations": [
+    {
+      "name": "清河站",
+      "type": "火车站/地铁站",
+      "address": "北京市海淀区安宁庄西路",
+      "coordinates": {
+        "longitude": 116.313031,
+        "latitude": 40.042668
+      },
+      "administrative_area": {
+        "country": "中国",
+        "province": "北京市",
+        "city": "北京市",
+        "district": "海淀区",
+        "adcode": "110108"
+      },
+      "level": "公交地铁站点",
+      "data_source": "高德地图API",
+      "timestamp": "2026-01-08 18:48:27"
+    },
+    {
+      "name": "西二旗",
+      "type": "住宅区/地铁站",
+      "address": "北京市海淀区",
+      "coordinates": {
+        "longitude": 116.312214,
+        "latitude": 40.053432
+      },
+      "administrative_area": {
+        "country": "中国",
+        "province": "北京市",
+        "city": "北京市",
+        "district": "海淀区",
+        "adcode": "110108"
+      },
+      "level": "住宅区",
+      "data_source": "高德地图API",
+      "timestamp": "2026-01-08 18:48:27"
+    }
+  ],
+  "metadata": {
+    "coordinate_system": "WGS84",
+    "format": "十进制度",
+    "precision": "约1米级别",
+    "collection_method": "地理编码（地址解析）",
+    "update_time": "2026-01-08 18:48:28"
+  }
+}
